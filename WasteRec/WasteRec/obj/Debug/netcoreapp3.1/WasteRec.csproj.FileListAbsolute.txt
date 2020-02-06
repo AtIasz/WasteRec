@@ -1,0 +1,11 @@
+C:\Users\Én\source\repos\WasteRec\WasteRec\bin\Debug\netcoreapp3.1\WasteRec.exe
+C:\Users\Én\source\repos\WasteRec\WasteRec\bin\Debug\netcoreapp3.1\WasteRec.deps.json
+C:\Users\Én\source\repos\WasteRec\WasteRec\bin\Debug\netcoreapp3.1\WasteRec.runtimeconfig.json
+C:\Users\Én\source\repos\WasteRec\WasteRec\bin\Debug\netcoreapp3.1\WasteRec.runtimeconfig.dev.json
+C:\Users\Én\source\repos\WasteRec\WasteRec\bin\Debug\netcoreapp3.1\WasteRec.dll
+C:\Users\Én\source\repos\WasteRec\WasteRec\bin\Debug\netcoreapp3.1\WasteRec.pdb
+C:\Users\Én\source\repos\WasteRec\WasteRec\obj\Debug\netcoreapp3.1\WasteRec.csprojAssemblyReference.cache
+C:\Users\Én\source\repos\WasteRec\WasteRec\obj\Debug\netcoreapp3.1\WasteRec.AssemblyInfoInputs.cache
+C:\Users\Én\source\repos\WasteRec\WasteRec\obj\Debug\netcoreapp3.1\WasteRec.AssemblyInfo.cs
+C:\Users\Én\source\repos\WasteRec\WasteRec\obj\Debug\netcoreapp3.1\WasteRec.dll
+C:\Users\Én\source\repos\WasteRec\WasteRec\obj\Debug\netcoreapp3.1\WasteRec.pdb
